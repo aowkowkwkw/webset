@@ -21,7 +21,7 @@ const Footer = () => {
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
 									<a href="https://www.instagram.com/u_known_alvaro/?hl=id" class="hover:underline">
-										ALVARO
+										ALVARO kekasih enjel
 									</a>
 								</li>
 								<li>
